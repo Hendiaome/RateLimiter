@@ -2,7 +2,10 @@
 分布式限流工具
 
 1.基于redis限流, 集群集群流量汇总
+<br>
 2.可配置方法前统计 方法执行后(可过滤统计)
+<br>
+3.控制台查看
 
 quick start
 1.在springBoot程序中加入 @EnableRateLimiter
